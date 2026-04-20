@@ -25,7 +25,7 @@ Backend-focused software engineer who enjoys building things that actually work 
 I've built and shipped APIs, AI-powered platforms, and backend systems using **Python** and **Node.js**, with experience spanning architecture, deployment, authentication, database design, and practical AI integrations.
 
 - 🎓 BSc, Communications & Computers Engineering — Mansoura University *(CGPA: 3.57, 4 years instead of 5)*
-- 🏆 SIC Hackathon Top 10 · ICPC Egypt National Top 100 · DevFest GDG Top 10 · YEC ROWAD 3.0 **#1**
+- 🏆 SIC Hackathon Top 10 · DevFest GDG Top 10 · YEC ROWAD 3.0 **#1**
 - 🤖 Samsung AI Scholar — 260hrs covering ML, NLP/LLMs, RAG & deployment
 - 🔧 Former Technical Director at IEEE ManCSC, leading a 50-member cross-functional team
 - 📍 Based in Cairo, Egypt — open to remote opportunities
@@ -74,10 +74,10 @@ I've built and shipped APIs, AI-powered platforms, and backend systems using **P
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [**Quiz API**](https://github.com/ZEYAD-8) | Production-style REST API with RBAC, JWT auth, automatic grading, and support for MCQ, T/F, matching & ordering questions | Django · MySQL · JWT |
-| [**AirBnB Clone**](https://github.com/ZEYAD-8) | Full-stack clone with full backend ownership: deployment, load balancing, DB replication, CI/CD, SSL & domain setup | Python · Nginx · HAProxy |
-| [**Disease Detective**](https://github.com/ZEYAD-8) | Backend of an AI-powered health diagnosis platform with containerized AI models, Railway deployment & ngrok integration | Django · PostgreSQL · Docker |
-| [**IEEE Open Source Platform**](https://github.com/ZEYAD-8) | Led architecture & delivery of an AI-powered e-learning platform as Technical Director of a 50-member team | Express.js · TypeScript · PostgreSQL · Prisma |
+| [**Quiz API**](https://github.com/ZEYAD-8/quiz_api) | Production-style REST API with RBAC, JWT auth, automatic grading, and support for MCQ, T/F, matching & ordering questions | Django · MySQL · JWT |
+| [**AirBnB Clone**](https://github.com/ZEYAD-8/AirBnB_clone_v3) | Full-stack clone with full backend ownership: deployment, load balancing, DB replication, CI/CD, SSL & domain setup | Python · Nginx · HAProxy |
+| [**Disease Detective**](https://github.com/ZEYAD-8/disease_detection) | Backend of an AI-powered health diagnosis platform with containerized AI models, Railway deployment & ngrok integration | Django · PostgreSQL · Docker |
+| [**IEEE Open Source Platform**](https://github.com/IEEEManCSC/OpenLearnPlatform) | Led architecture & delivery of an AI-powered e-learning platform as Technical Director of a 50-member team | Express.js · TypeScript · PostgreSQL · Prisma |
 
 ---
 
